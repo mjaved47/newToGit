@@ -1,7 +1,7 @@
-Getting started with GitHub
+Getting started with GitHub (with a tutorial on YouTube)
 After many trials
 Date: 27/02/2020
 And today is Thursday
 
 Going through a tutorial on YouTube.
-The video is by The Coding Train channel
+The video is by The Coding Train channel. Name of the video: Git and GitHub for Poets.
